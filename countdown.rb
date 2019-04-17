@@ -2,4 +2,6 @@
 
 def countdown entry
   while entry > 0 
+    puts ""
+  end
 end
