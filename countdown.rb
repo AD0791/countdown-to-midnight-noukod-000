@@ -2,6 +2,7 @@
 
 def countdown entry
   while entry > 0 
-    puts ""
+    puts "#{number} SECOND(S)!"
+    
   end
 end
